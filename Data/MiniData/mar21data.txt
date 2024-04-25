@@ -1,0 +1,1005 @@
+>> JonasTGSFitter -- w00000
+Time Index is: 160
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.03062  (0.01621, 0.04503)
+       k =   6.194e-05  (5.764e-05, 6.623e-05)
+       beta =   1.262e-05  (-7.205e-06, 3.244e-05)
+       B =    0.004599  (0.004457, 0.00474)
+       p =       2.738  (2.72, 2.756)
+       t =   3.964e-08  (3.831e-08, 4.097e-08)
+       D =    0.000381  (0.00036, 0.0004021)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.1e-09
+       peak_freq =   3.563e+08
+Frequency = 
+   3.5625e+08
+
+Frequency error = 
+   2.2387e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.4832e-06
+
+with and error of (m): 
+   4.7025e-11
+
+Thermal diffusivity = 
+   6.1937e-05
+
+Thermal diffusivity error = 
+   2.1475e-06
+
+>> JonasTGSFitter
+Time Index is: 158
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.02825  (0.01503, 0.04146)
+       k =     6.1e-05  (5.74e-05, 6.461e-05)
+       beta =   4.097e-08  (-2.572e-05, 2.58e-05)
+       B =    0.007901  (0.007711, 0.008091)
+       p =       2.101  (2.088, 2.114)
+       t =    2.77e-08  (2.706e-08, 2.835e-08)
+       D =   0.0003603  (0.0003407, 0.0003799)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.2e-09
+       peak_freq =   3.562e+08
+Frequency = 
+   3.5620e+08
+
+Frequency error = 
+   2.5428e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.4842e-06
+
+with and error of (m): 
+   5.3426e-11
+
+Thermal diffusivity = 
+   6.1001e-05
+
+Thermal diffusivity error = 
+   1.8022e-06
+
+>> JonasTGSFitter
+Time Index is: 112
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.03853  (-0.01635, 0.09341)
+       k =   6.612e-05  (5.841e-05, 7.383e-05)
+       beta =   9.598e-06  (-6.061e-05, 7.981e-05)
+       B =    0.006478  (0.006253, 0.006703)
+       p =      0.3989  (0.3817, 0.416)
+       t =    3.58e-08  (3.475e-08, 3.684e-08)
+       D =   4.263e-05  (2.279e-05, 6.247e-05)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =    1.19e-08
+       peak_freq =   3.532e+08
+Frequency = 
+   3.5324e+08
+
+Frequency error = 
+   2.1270e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5471e-06
+
+with and error of (m): 
+   4.5445e-11
+
+Thermal diffusivity = 
+   6.6118e-05
+
+Thermal diffusivity error = 
+   3.8560e-06
+
+
+>> JonasTGSFitter
+Time Index is: 157
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =    0.009093  (0.003365, 0.01482)
+       k =    3.14e-05  (2.606e-05, 3.675e-05)
+       beta =   9.622e-06  (-2.613e-05, 4.537e-05)
+       B =    0.003663  (0.00348, 0.003846)
+       p =       1.466  (1.438, 1.495)
+       t =   4.069e-08  (3.848e-08, 4.29e-08)
+       D =    0.000425  (0.0003731, 0.000477)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.4e-09
+       peak_freq =   3.553e+08
+Frequency = 
+   3.5525e+08
+
+Frequency error = 
+   2.6883e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5042e-06
+
+with and error of (m): 
+   5.6787e-11
+
+Thermal diffusivity = 
+   3.1405e-05
+
+Thermal diffusivity error = 
+   2.6747e-06
+
+>> JonasTGSFitter
+Time Index is: 159
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =      0.0276  (0.01324, 0.04195)
+       k =   6.128e-05  (5.712e-05, 6.544e-05)
+       beta =   4.201e-06  (-2.233e-05, 3.073e-05)
+       B =    0.007218  (0.007011, 0.007425)
+       p =       2.264  (2.248, 2.28)
+       t =   2.679e-08  (2.605e-08, 2.752e-08)
+       D =   0.0003297  (0.0003093, 0.0003502)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.3e-09
+       peak_freq =   3.537e+08
+Frequency = 
+   3.5374e+08
+
+Frequency error = 
+   3.2489e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5362e-06
+
+with and error of (m): 
+   6.9215e-11
+
+Thermal diffusivity = 
+   6.1282e-05
+
+Thermal diffusivity error = 
+   2.0801e-06
+
+>> JonasTGSFitter
+Time Index is: 159
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.03498  (0.02047, 0.0495)
+       k =   6.352e-05  (5.994e-05, 6.711e-05)
+       beta =   9.382e-06  (-9.33e-06, 2.809e-05)
+       B =    0.007884  (0.007672, 0.008096)
+       p =       2.452  (2.437, 2.467)
+       t =   2.519e-08  (2.456e-08, 2.582e-08)
+       D =   2.956e-05  (1.039e-05, 4.872e-05)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.2e-09
+       peak_freq =   3.538e+08
+Frequency = 
+   3.5385e+08
+
+Frequency error = 
+   2.9898e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5340e-06
+
+with and error of (m): 
+   6.3657e-11
+
+Thermal diffusivity = 
+   6.3524e-05
+
+Thermal diffusivity error = 
+   1.7941e-06
+
+>> JonasTGSFitter
+Time Index is: 161
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.01765  (-0.00466, 0.03997)
+       k =   4.261e-05  (3.153e-05, 5.369e-05)
+       beta =   1.162e-05  (-5.072e-05, 7.397e-05)
+       B =    0.001207  (-0.007619, 0.01003)
+       p =      0.6804  (-7.124, 8.485)
+       t =   5.001e-09  (fixed at bound)
+       D =   0.0005204  (0.000429, 0.0006118)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.1e-09
+       peak_freq =   3.529e+08
+Frequency = 
+   3.5294e+08
+
+Frequency error = 
+   2.7339e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5533e-06
+
+with and error of (m): 
+   5.8509e-11
+
+Thermal diffusivity = 
+   4.2611e-05
+
+Thermal diffusivity error = 
+   5.5396e-06
+
+>> JonasTGSFitter
+Time Index is: 161
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.05456  (0.0304, 0.07873)
+       k =   6.263e-05  (5.684e-05, 6.843e-05)
+       beta =   3.482e-05  (2.603e-05, 4.361e-05)
+       B =    0.004744  (0.004517, 0.004971)
+       p =       3.444  (3.415, 3.472)
+       t =   4.012e-08  (3.801e-08, 4.224e-08)
+       D =   0.0002561  (0.0002218, 0.0002903)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.1e-09
+       peak_freq =   3.531e+08
+Frequency = 
+   3.5312e+08
+
+Frequency error = 
+   2.5425e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5495e-06
+
+with and error of (m): 
+   5.4356e-11
+
+Thermal diffusivity = 
+   6.2632e-05
+
+Thermal diffusivity error = 
+   2.8967e-06
+
+>> JonasTGSFitter
+Time Index is: 159
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =      0.0329  (0.01987, 0.04594)
+       k =   6.336e-05  (6.033e-05, 6.639e-05)
+       beta =   3.656e-07  (-2.114e-05, 2.187e-05)
+       B =    0.008307  (0.008141, 0.008472)
+       p =       2.248  (2.237, 2.259)
+       t =   2.807e-08  (2.753e-08, 2.861e-08)
+       D =   0.0002682  (0.0002513, 0.0002851)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.3e-09
+       peak_freq =   3.529e+08
+Frequency = 
+   3.5286e+08
+
+Frequency error = 
+   2.2060e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5551e-06
+
+with and error of (m): 
+   4.7233e-11
+
+Thermal diffusivity = 
+   6.3358e-05
+
+Thermal diffusivity error = 
+   1.5139e-06
+
+>> JonasTGSFitter
+Time Index is: 160
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.03907  (0.02336, 0.05477)
+       k =   5.979e-05  (5.583e-05, 6.376e-05)
+       beta =   1.846e-05  (3.633e-06, 3.328e-05)
+       B =    0.005134  (0.004965, 0.005303)
+       p =       2.702  (2.683, 2.721)
+       t =   3.924e-08  (3.783e-08, 4.064e-08)
+       D =   0.0004482  (0.0004228, 0.0004736)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.1e-09
+       peak_freq =   3.534e+08
+Frequency = 
+   3.5338e+08
+
+Frequency error = 
+   2.3527e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5441e-06
+
+with and error of (m): 
+   5.0226e-11
+
+Thermal diffusivity = 
+   5.9792e-05
+
+Thermal diffusivity error = 
+   1.9828e-06
+
+>> JonasTGSFitter
+Time Index is: 159
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.03386  (0.02146, 0.04626)
+       k =   6.139e-05  (5.819e-05, 6.459e-05)
+       beta =   1.125e-05  (-4.835e-06, 2.733e-05)
+       B =     0.00761  (0.007435, 0.007785)
+       p =       2.234  (2.221, 2.247)
+       t =   2.728e-08  (2.668e-08, 2.788e-08)
+       D =   0.0001441  (0.0001266, 0.0001617)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.3e-09
+       peak_freq =   3.525e+08
+Frequency = 
+   3.5254e+08
+
+Frequency error = 
+   2.9663e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5620e-06
+
+with and error of (m): 
+   6.3628e-11
+
+Thermal diffusivity = 
+   6.1394e-05
+
+Thermal diffusivity error = 
+   1.6002e-06
+
+>> JonasTGSFitter
+Time Index is: 158
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =      0.0798  (0.06245, 0.09715)
+       k =   6.923e-05  (6.683e-05, 7.163e-05)
+       beta =   2.617e-05  (2.025e-05, 3.21e-05)
+       B =    0.009117  (0.008928, 0.009306)
+       p =       1.877  (1.865, 1.888)
+       t =   2.626e-08  (2.575e-08, 2.677e-08)
+       D =   0.0001151  (9.821e-05, 0.0001319)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.4e-09
+       peak_freq =   3.517e+08
+Frequency = 
+   3.5170e+08
+
+Frequency error = 
+   2.3614e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5801e-06
+
+with and error of (m): 
+   5.0895e-11
+
+Thermal diffusivity = 
+   6.9232e-05
+
+Thermal diffusivity error = 
+   1.2003e-06
+
+>> JonasTGSFitter
+Time Index is: 158
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.05383  (0.03917, 0.0685)
+       k =   6.593e-05  (6.349e-05, 6.836e-05)
+       beta =   1.255e-05  (1.247e-06, 2.385e-05)
+       B =    0.009502  (0.009319, 0.009685)
+       p =       2.044  (2.034, 2.055)
+       t =   2.637e-08  (2.589e-08, 2.685e-08)
+       D =   0.0002949  (0.000278, 0.0003118)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.3e-09
+       peak_freq =   3.521e+08
+Frequency = 
+   3.5207e+08
+
+Frequency error = 
+   2.7085e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5721e-06
+
+with and error of (m): 
+   5.8252e-11
+
+Thermal diffusivity = 
+   6.5926e-05
+
+Thermal diffusivity error = 
+   1.2186e-06
+
+>> JonasTGSFitter
+Time Index is: 161
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =      0.1294  (0.07123, 0.1875)
+       k =   7.997e-05  (7.218e-05, 8.776e-05)
+       beta =   4.195e-05  (3.793e-05, 4.597e-05)
+       B =    0.004207  (0.003898, 0.004516)
+       p =       3.601  (3.557, 3.644)
+       t =   3.862e-08  (3.553e-08, 4.171e-08)
+       D =   -5.46e-05  (-9.481e-05, -1.439e-05)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.1e-09
+       peak_freq =   3.532e+08
+Frequency = 
+   3.5320e+08
+
+Frequency error = 
+   2.3725e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5479e-06
+
+with and error of (m): 
+   5.0700e-11
+
+Thermal diffusivity = 
+   7.9969e-05
+
+Thermal diffusivity error = 
+   3.8935e-06
+
+>> JonasTGSFitter
+Time Index is: 161
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.03812  (0.02505, 0.0512)
+       k =   6.224e-05  (5.886e-05, 6.562e-05)
+       beta =   1.807e-05  (5.506e-06, 3.063e-05)
+       B =    0.007943  (0.007767, 0.008119)
+       p =       2.947  (2.935, 2.96)
+       t =   2.861e-08  (2.799e-08, 2.924e-08)
+       D =   7.063e-05  (5.179e-05, 8.948e-05)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.1e-09
+       peak_freq =   3.538e+08
+Frequency = 
+   3.5378e+08
+
+Frequency error = 
+   2.7616e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5356e-06
+
+with and error of (m): 
+   5.8822e-11
+
+Thermal diffusivity = 
+   6.2236e-05
+
+Thermal diffusivity error = 
+   1.6901e-06
+
+>> JonasTGSFitter
+Time Index is: 159
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.03799  (0.02564, 0.05034)
+       k =   6.217e-05  (5.92e-05, 6.515e-05)
+       beta =   1.367e-05  (2.857e-07, 2.705e-05)
+       B =    0.007572  (0.007404, 0.00774)
+       p =       2.366  (2.354, 2.379)
+       t =   2.803e-08  (2.743e-08, 2.864e-08)
+       D =   0.0002631  (0.0002457, 0.0002804)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.2e-09
+       peak_freq =   3.537e+08
+Frequency = 
+   3.5372e+08
+
+Frequency error = 
+   2.4687e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5367e-06
+
+with and error of (m): 
+   5.2599e-11
+
+Thermal diffusivity = 
+   6.2173e-05
+
+Thermal diffusivity error = 
+   1.4867e-06
+
+>> JonasTGSFitter
+Time Index is: 160
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.02977  (0.01427, 0.04527)
+       k =   5.863e-05  (5.394e-05, 6.331e-05)
+       beta =   1.277e-05  (-9.63e-06, 3.517e-05)
+       B =    0.004434  (0.004271, 0.004597)
+       p =       2.656  (2.635, 2.678)
+       t =   4.115e-08  (3.949e-08, 4.281e-08)
+       D =    0.000394  (0.0003682, 0.0004198)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.2e-09
+       peak_freq =   3.539e+08
+Frequency = 
+   3.5388e+08
+
+Frequency error = 
+   2.5579e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5334e-06
+
+with and error of (m): 
+   5.4454e-11
+
+Thermal diffusivity = 
+   5.8628e-05
+
+Thermal diffusivity error = 
+   2.3425e-06
+
+>> JonasTGSFitter
+Time Index is: 161
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.02317  (0.02031, 0.02602)
+       k =   5.407e-05  (fixed at bound)
+       beta =   1.497e-06  (-6.502e-06, 9.497e-06)
+       B =    0.007027  (0.006864, 0.00719)
+       p =       3.058  (3.045, 3.071)
+       t =   2.991e-08  (2.921e-08, 3.061e-08)
+       D =   0.0004599  (0.0004445, 0.0004753)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.1e-09
+       peak_freq =   3.529e+08
+Bad fit for:/Users/jonasrajagopal/Desktop/ShortUROP/TGS_Data_Analysis/RSIData/Mar21/C2w00017_BaselineSubtracted.txt~re: alpha
+Frequency = 
+   3.5287e+08
+
+Frequency error = 
+   2.3642e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5549e-06
+
+with and error of (m): 
+   5.0617e-11
+
+Thermal diffusivity = 
+   5.4073e-05
+
+Thermal diffusivity error = 
+   NaN
+
+>> JonasTGSFitter
+Time Index is: 161
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.04207  (0.02809, 0.05605)
+       k =   6.221e-05  (5.833e-05, 6.609e-05)
+       beta =   2.799e-05  (1.915e-05, 3.683e-05)
+       B =    0.005731  (0.005575, 0.005888)
+       p =      -2.957  (-2.972, -2.941)
+       t =   3.498e-08  (3.397e-08, 3.599e-08)
+       D =    0.000113  (9.227e-05, 0.0001338)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =       7e-09
+       peak_freq =   3.528e+08
+Frequency = 
+   3.5281e+08
+
+Frequency error = 
+   2.5776e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5561e-06
+
+with and error of (m): 
+   5.5205e-11
+
+Thermal diffusivity = 
+   6.2208e-05
+
+Thermal diffusivity error = 
+   1.9385e-06
+
+>> JonasTGSFitter
+Time Index is: 161
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.03983  (-0.005619, 0.08528)
+       k =   6.016e-05  (4.844e-05, 7.187e-05)
+       beta =     2.1e-05  (-1.803e-05, 6.004e-05)
+       B =   1.978e-09  (fixed at bound)
+       p =       6.283  (fixed at bound)
+       t =       5e-09  (fixed at bound)
+       D =   0.0004556  (0.000383, 0.0005281)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.1e-09
+       peak_freq =   3.538e+08
+Frequency = 
+   3.5375e+08
+
+Frequency error = 
+   2.3067e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5360e-06
+
+with and error of (m): 
+   4.9139e-11
+
+Thermal diffusivity = 
+   6.0157e-05
+
+Thermal diffusivity error = 
+   5.8565e-06
+
+>> JonasTGSFitter
+Time Index is: 158
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.02882  (0.02812, 0.02952)
+       k =   5.992e-05  (5.874e-05, 6.11e-05)
+       beta =   1.378e-08  (fixed at bound)
+       B =    0.006905  (0.006738, 0.007072)
+       p =       1.948  (1.934, 1.961)
+       t =   3.138e-08  (3.062e-08, 3.214e-08)
+       D =   0.0003996  (0.0003819, 0.0004173)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.3e-09
+       peak_freq =   3.533e+08
+Bad fit for:/Users/jonasrajagopal/Desktop/ShortUROP/TGS_Data_Analysis/RSIData/Mar21/C2w00020_BaselineSubtracted.txt~re: beta
+Frequency = 
+   3.5332e+08
+
+Frequency error = 
+   2.2964e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5454e-06
+
+with and error of (m): 
+   4.9041e-11
+
+Thermal diffusivity = 
+   5.9915e-05
+
+Thermal diffusivity error = 
+   5.9019e-07
+
+>> JonasTGSFitter
+Time Index is: 161
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =       0.026  (-0.00787, 0.05987)
+       k =   5.171e-05  (4.037e-05, 6.305e-05)
+       beta =   1.034e-05  (-5.142e-05, 7.21e-05)
+       B =   8.192e-07  (-0.006001, 0.006003)
+       p =       4.692  (-7628, 7637)
+       t =   5.765e-09  (fixed at bound)
+       D =   0.0004933  (0.000412, 0.0005746)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.1e-09
+       peak_freq =   3.534e+08
+Frequency = 
+   3.5341e+08
+
+Frequency error = 
+   2.0614e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5434e-06
+
+with and error of (m): 
+   4.4000e-11
+
+Thermal diffusivity = 
+   5.1709e-05
+
+Thermal diffusivity error = 
+   5.6702e-06
+
+>> JonasTGSFitter
+Time Index is: 157
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.02451  (0.02089, 0.02814)
+       k =   5.752e-05  (fixed at bound)
+       beta =   1.292e-05  (5.118e-06, 2.072e-05)
+       B =    0.003487  (0.00335, 0.003624)
+       p =       1.006  (0.9835, 1.028)
+       t =   3.799e-08  (3.64e-08, 3.957e-08)
+       D =   0.0003424  (0.0003268, 0.0003581)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.5e-09
+       peak_freq =   3.546e+08
+Bad fit for:/Users/jonasrajagopal/Desktop/ShortUROP/TGS_Data_Analysis/RSIData/Mar21/C2w00022_BaselineSubtracted.txt~re: alpha
+Frequency = 
+   3.5461e+08
+
+Frequency error = 
+   2.1456e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5178e-06
+
+with and error of (m): 
+   4.5486e-11
+
+Thermal diffusivity = 
+   5.7520e-05
+
+Thermal diffusivity error = 
+   NaN
+
+>> JonasTGSFitter
+Time Index is: 158
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.01519  (0.007138, 0.02325)
+       k =   4.004e-05  (3.57e-05, 4.437e-05)
+       beta =   7.286e-06  (-2.191e-05, 3.648e-05)
+       B =    0.004105  (0.00392, 0.004289)
+       p =       1.501  (1.475, 1.527)
+       t =   3.852e-08  (3.667e-08, 4.038e-08)
+       D =   0.0004481  (0.0004109, 0.0004853)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.4e-09
+       peak_freq =   3.542e+08
+Frequency = 
+   3.5421e+08
+
+Frequency error = 
+   2.5968e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.5263e-06
+
+with and error of (m): 
+   5.5177e-11
+
+Thermal diffusivity = 
+   4.0038e-05
+
+Thermal diffusivity error = 
+   2.1682e-06
+
+>> JonasTGSFitter
+Time Index is: 159
+End Time is: 2e-07
+
+f2 = 
+
+     General model:
+     f2(x) = A.*(erfc(q*sqrt(k*(x+start_time)))-beta*exp(-q^2*k*(x+start_time)
+                    )./sqrt((x+start_time)))+B.*sin(2*pi*(peak_freq)*(x+
+                    start_time)+p)*exp(-(x+start_time)/t)+D
+     Coefficients (with 95% confidence bounds):
+       A =     0.04875  (0.03089, 0.06661)
+       k =   6.775e-05  (6.451e-05, 7.1e-05)
+       beta =   1.082e-05  (-4.803e-06, 2.643e-05)
+       B =    0.009993  (0.009785, 0.0102)
+       p =       2.249  (2.238, 2.261)
+       t =   2.681e-08  (2.628e-08, 2.734e-08)
+       D =   0.0001555  (0.0001359, 0.0001751)
+     Problem parameters:
+       q =   8.267e+05
+       start_time =     7.2e-09
+       peak_freq =   3.564e+08
+Frequency = 
+   3.5636e+08
+
+Frequency error = 
+   2.7892e+03
+
+=> grating spacing on tungsten sample(m): 
+   7.4808e-06
+
+with and error of (m): 
+   5.8551e-11
+
+Thermal diffusivity = 
+   6.7754e-05
+
+Thermal diffusivity error = 
+   1.6228e-06
+
+>> JonasTGSFitter
